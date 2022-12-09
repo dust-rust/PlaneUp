@@ -1,0 +1,51 @@
+@font-face {
+    font-family: exo;
+    src: url(./Exo2.0-Light.otf);
+}
+
+@font-face {
+    font-family: exo-light;
+    src: url(./Exo2.0-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: raleway;
+    src: url(./Raleway-Light.ttf);
+}
+
+@font-face {
+    font-family: raleway-light;
+    src: url(./Raleway-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: taurus;
+    src: url(./Taurus-Mono-Outline-Bold.otf);
+}
+
+.exo { 
+    font-family: exo;
+  }
+
+.exo-light { 
+    font-family: exo-light;
+}
+
+.raleway { 
+    font-family: raleway;
+  }
+
+.raleway-lightt { 
+    font-family: raleway-light;
+}
+
+.taurus{
+    font-family: taurus;
+}
+
+.bg-blue-dark{
+    background-color: #050d21;
+}
+.bg-gray-dark{
+    background-color: #0d1116;
+}
